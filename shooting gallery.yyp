@@ -82,7 +82,7 @@
             "Key": "3aed3f70-4887-41fc-8ff1-07d7fd98ea28",
             "Value": {
                 "id": "903166b5-c52c-4fc4-94f1-3819fb4fa495",
-                "resourcePath": "sprites\\sprite12\\sprite12.yy",
+                "resourcePath": "sprites\\spr_1\\spr_1.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -167,6 +167,22 @@
             }
         },
         {
+            "Key": "6fbe297a-8e1e-418c-b705-6c17792f3459",
+            "Value": {
+                "id": "b4df2968-9ea7-4a55-8c4d-d226f23026ae",
+                "resourcePath": "objects\\obj_1\\obj_1.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "7012ab9f-fba4-43e1-a7f5-344cd9ddff87",
+            "Value": {
+                "id": "8573ce7a-2983-460d-9c41-827ac492c400",
+                "resourcePath": "timelines\\timeline0\\timeline0.yy",
+                "resourceType": "GMTimeline"
+            }
+        },
+        {
             "Key": "71644f28-d9ee-4c12-aa3f-e40804b30b28",
             "Value": {
                 "id": "8f8eaae0-bb54-4c33-9e13-ce76222a3d3d",
@@ -199,6 +215,14 @@
             }
         },
         {
+            "Key": "a32e7879-95fc-49aa-ad52-7f05dfddb74f",
+            "Value": {
+                "id": "d09f1ef7-c928-4227-b286-59717cc18751",
+                "resourcePath": "objects\\obj_hole\\obj_hole.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a3ae0877-2fa0-451f-81eb-a7489644955e",
             "Value": {
                 "id": "35a5913b-8a6a-4368-9fcd-844bdf480c45",
@@ -212,6 +236,14 @@
                 "id": "9e350014-cd15-490d-b8ca-87b82af276e6",
                 "resourcePath": "views\\ad3649c0-08db-4ea9-bceb-b100dc381f00.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "b11f530e-1f04-4eb5-87f4-40a4944e03a3",
+            "Value": {
+                "id": "b2ad1efe-a4b4-4eeb-a9d4-e0ef103f3971",
+                "resourcePath": "objects\\obj_UI\\obj_UI.yy",
+                "resourceType": "GMObject"
             }
         },
         {
